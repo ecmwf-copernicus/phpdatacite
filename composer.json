@@ -14,7 +14,7 @@
   },
   "require": {
     "netresearch/jsonmapper": "~1.4.0",
-    "scovitin-vsevolod/phpdoc-md": "dev-master"
+    "evert/phpdoc-md": "dev-master"
   },
   "keywords": [
     "DataCite",
