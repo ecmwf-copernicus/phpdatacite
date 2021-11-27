@@ -1,5 +1,5 @@
 {
-  "name": "scovitin/phpdatacite",
+  "name": "scovitin-vsevolod/phpdatacite",
   "license": "GPL-3.0",
   "minimum-stability": "dev",
   "authors": [
@@ -14,7 +14,7 @@
   },
   "require": {
     "netresearch/jsonmapper": "~1.4.0",
-    "evert/phpdoc-md": "dev-master"
+    "scovitin-vsevolod/phpdoc-md": "dev-master"
   },
   "keywords": [
     "DataCite",
